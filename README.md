@@ -10,14 +10,6 @@ Features
 - Mesh networking foundation for decentralized content sharing
 - Jetpack Compose UI for peer discovery and interaction
 
----
-Project Structure
-
-. ├── app │ ├── src │ │ ├── main │ │ │ ├── AndroidManifest.xml # Permissions and configuration │ │ │ ├── java │ │ │ │ └── com.example.wifidirectdemo │ │ │ │ ├── MainActivity.kt # Main logic for P2P connection and messaging │ │ │ │ └── WiFiDirectBroadcastReceiver.kt # Broadcast listener for Wi-Fi Direct state
-
-
----
-
 
 1. `MainActivity.kt`
 
